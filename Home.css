@@ -91,8 +91,14 @@
     margin-left: 104px;
   }
 
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 263px;
+  }
+
   .u-section-1 .u-image-1 {
-    width: 96px;
+    width: 153px;
+    height: 153px;
+    margin-top: 39px;
     margin-left: 16px;
   }
 
@@ -125,8 +131,8 @@
   }
 
   .u-section-1 .u-text-3 {
-    margin-right: 16px;
     font-size: 4.5rem;
+    margin-right: 16px;
   }
 
   .u-section-1 .u-text-4 {
@@ -150,14 +156,14 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 166px;
+    min-height: 283px;
   }
 
   .u-section-1 .u-image-1 {
-    width: 101px;
-    margin-top: 109px;
-    margin-bottom: -12px;
-    margin-left: 12px;
+    width: 161px;
+    height: 162px;
+    margin-top: 43px;
+    margin-left: 23px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -214,14 +220,13 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 249px;
+    min-height: 291px;
   }
 
   .u-section-1 .u-image-1 {
-    width: 166px;
-    margin-top: 111px;
-    margin-bottom: -2px;
-    margin-left: 63px;
+    width: 153px;
+    margin-top: 0;
+    margin-left: 20px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -263,8 +268,8 @@
   }
 
   .u-section-1 .u-text-3 {
-    margin-right: 9px;
     font-size: 3.75rem;
+    margin-right: 9px;
   }
 
   .u-section-1 .u-text-4 {
@@ -288,14 +293,14 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 157px;
+    min-height: 249px;
   }
 
   .u-section-1 .u-image-1 {
-    width: 100px;
-    margin-top: 63px;
-    margin-bottom: -27px;
-    margin-left: 6px;
+    width: 125px;
+    height: 125px;
+    margin-top: 42px;
+    margin-left: 11px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -1402,6 +1407,7 @@
 
 .u-section-5 .u-text-1 {
   width: 690px;
+  font-size: 3rem;
   margin: 16px auto 0;
 }
 
@@ -1549,6 +1555,10 @@
 }
 
 @media (max-width: 991px) {
+  .u-section-5 .u-group-1 {
+    min-height: 1916px;
+  }
+
   .u-section-5 .u-container-layout-1 {
     padding-top: 90px;
   }
@@ -1591,6 +1601,10 @@
 }
 
 @media (max-width: 767px) {
+  .u-section-5 .u-group-1 {
+    min-height: 3424px;
+  }
+
   .u-section-5 .u-container-layout-1 {
     padding-top: 30px;
     padding-left: 10px;

@@ -102,15 +102,19 @@
     margin-left: 16px;
   }
 
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 263px;
+  }
+
   .u-section-1 .u-icon-1 {
-    margin-top: 109px;
-    margin-left: 56px;
+    margin-top: 43px;
+    margin-left: 23px;
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: -108px;
-    margin-right: 16px;
-    margin-left: 93px;
+    width: auto;
+    margin-right: 17px;
+    margin-left: 66px;
   }
 
   .u-section-1 .u-text-2 {
@@ -156,28 +160,28 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 283px;
+    min-height: 340px;
   }
 
   .u-section-1 .u-image-1 {
     width: 161px;
     height: 162px;
-    margin-top: 43px;
+    margin-top: 103px;
     margin-left: 23px;
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 210px;
+    min-height: 340px;
   }
 
   .u-section-1 .u-icon-1 {
-    margin-top: 119px;
-    margin-left: 48px;
+    margin-top: 120px;
+    margin-left: 20px;
   }
 
   .u-section-1 .u-text-1 {
     margin-right: 13px;
-    margin-left: 104px;
+    margin-left: 60px;
   }
 
   .u-section-1 .u-text-2 {
@@ -224,8 +228,9 @@
   }
 
   .u-section-1 .u-image-1 {
-    width: 153px;
-    margin-top: 0;
+    width: 135px;
+    height: 135px;
+    margin-top: 60px;
     margin-left: 20px;
   }
 
@@ -234,16 +239,14 @@
   }
 
   .u-section-1 .u-icon-1 {
-    margin-top: 62px;
+    margin-top: 25px;
     margin-left: 86px;
   }
 
   .u-section-1 .u-text-1 {
-    position: relative;
-    margin-top: -82px;
-    margin-right: 58px;
-    margin-left: 129px;
     font-size: 2.25rem;
+    margin-right: 28px;
+    margin-left: 129px;
   }
 
   .u-section-1 .u-text-2 {
@@ -299,8 +302,8 @@
   .u-section-1 .u-image-1 {
     width: 125px;
     height: 125px;
-    margin-top: 42px;
-    margin-left: 11px;
+    margin-top: 0;
+    margin-left: 14px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -313,6 +316,7 @@
   }
 
   .u-section-1 .u-text-1 {
+    position: relative;
     margin-top: -36px;
     margin-right: 6px;
     margin-left: 116px;
@@ -1520,6 +1524,7 @@
   }
 
   .u-section-5 .u-gallery-1 {
+    height: 286px;
     margin-right: initial;
     margin-left: initial;
     width: auto;

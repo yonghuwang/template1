@@ -41592,22 +41592,13 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: 0 auto;
 }
 
-.u-header .u-image-1 {
-  margin: 20px auto 0 0;
-}
-
-.u-header .u-logo-image-1 {
-  max-width: 63px;
-  max-height: 63px;
-}
-
 .u-header .u-social-icons-1 {
   white-space: nowrap;
   height: 26px;
   min-height: 16px;
   width: 134px;
   min-width: 94px;
-  margin: -16px 20px 10px auto;
+  margin: 36px 20px 10px auto;
 }
 
 .u-header .u-icon-1 {
@@ -41631,11 +41622,6 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 767px) {
   .u-header .u-sheet-1 {
     min-height: 148px;
-  }
-
-  .u-header .u-image-1 {
-    width: 63px;
-    margin-left: auto;
   }
 
   .u-header .u-social-icons-1 {

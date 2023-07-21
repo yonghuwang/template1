@@ -41626,7 +41626,6 @@ a.u-link.u-text-hover-grey-90:hover {
   box-shadow: 11px 8px 23px 0px rgba(128,128,128,0.6);
   text-transform: none;
   background-image: linear-gradient(#f2f2f2, #adcce9);
-  font-weight: normal;
   margin: -35px 190px 27px auto;
 }
 @media (max-width: 1199px) {
@@ -41636,6 +41635,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-btn-1 {
     border-style: none;
+    font-weight: normal;
     margin-bottom: 18px;
     padding: 10px 30px;
   }
@@ -41669,7 +41669,6 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-bottom: 11px;
     padding-left: 16px;
     padding-right: 16px;
-    font-weight: normal;
   }
 }
 .u-header .u-btn-1, .u-header .u-btn-1:before, .u-header .u-btn-1 > .u-container-layout:before {
